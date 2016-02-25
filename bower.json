@@ -6,11 +6,5 @@
   "dependencies": {
     "jquery": "~1.10.0"
   },
-  "ignore": "*.MD",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/jmarti/jquery-mobile-touchevents.git"
-  },
-  "homepage": "https://github.com/jmarti/jquery-mobile-touchevents",
-  "_release": "1.4.5"
+  "ignore": "*.MD"
 }
